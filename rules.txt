@@ -1,0 +1,3 @@
+#regle A
+rules.tmx
+rules-riviere.tmx

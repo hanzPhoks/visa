@@ -59,7 +59,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/sel\/visa\/start.json#left"
+                 "value":"https:\/\/play.workadventu.re\/@\/sel\/visa\/start.json#right"
                 }],
          "type":"tilelayer",
          "visible":true,

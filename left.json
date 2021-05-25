@@ -8,6 +8,12 @@
          "id":1,
          "name":"Calque de Tuiles 1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/@\/sel\/visa\/start.json#left"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":75,

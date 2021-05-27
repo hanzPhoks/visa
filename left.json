@@ -333,6 +333,16 @@
          "spacing":0,
          "tilecount":1536,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":1487,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32,
          "wangsets":[
                 {

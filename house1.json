@@ -54,7 +54,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/sel\/visa\/left.json#house1"
+                 "value":"https:\/\/play.workadventu.re\/@\/sel\/visa\/left.json#house_1"
                 }],
          "type":"tilelayer",
          "visible":true,

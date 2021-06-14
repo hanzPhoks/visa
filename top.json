@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/p9zGiUivQoE"
+                 "value":"https:\/\/www.youtube.com\/embed\/p9zGiUivQoE?&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -42,7 +42,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/ndgbG3d8XOo"
+                 "value":"https:\/\/www.youtube.com\/embed\/ndgbG3d8XOo?&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -60,7 +60,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/BGgDaVSQrm8"
+                 "value":"https:\/\/www.youtube.com\/embed\/BGgDaVSQrm8?&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/XXy072KBSWc"
+                 "value":"https:\/\/www.youtube.com\/embed\/XXy072KBSWc?&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/GwW5xFWFZxo"
+                 "value":"https:\/\/www.youtube.com\/embed\/GwW5xFWFZxo?&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -114,7 +114,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/ErN-rH90gLw"
+                 "value":"https:\/\/www.youtube.com\/embed\/ErN-rH90gLw?&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -132,7 +132,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/wfPH1Vtsxag"
+                 "value":"https:\/\/www.youtube.com\/embed\/wfPH1Vtsxag?&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -150,7 +150,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/S-i8GezKpbk"
+                 "value":"https:\/\/www.youtube.com\/embed\/S-i8GezKpbk?&autoplay=1"
                 }, 
                 {
                  "name":"openWebsitePolicy",
@@ -191,7 +191,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/8Et8Be2LDS4"
+                 "value":"https:\/\/www.youtube.com\/embed\/8Et8Be2LDS4?&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -209,7 +209,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/mfHukGG5xOs"
+                 "value":"https:\/\/www.youtube.com\/embed\/mfHukGG5xOs?&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -227,7 +227,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/3DBvZwtdWM8k"
+                 "value":"https:\/\/www.youtube.com\/embed\/3DBvZwtdWM8k?&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -245,7 +245,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/K5l92Xy5QK4"
+                 "value":"https:\/\/www.youtube.com\/embed\/K5l92Xy5QK4?&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -263,7 +263,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/0eecSHXsr2M"
+                 "value":"https:\/\/www.youtube.com\/embed\/0eecSHXsr2M?&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,

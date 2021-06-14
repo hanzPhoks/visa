@@ -12,7 +12,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/Fz_DEr9FVwE"
+                 "value":"https:\/\/www.youtube.com\/embed\/Fz_DEr9FVwE?&autoplay=1"
                 }, 
                 {
                  "name":"openWebsitePolicy",

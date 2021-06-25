@@ -176,7 +176,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/sel\/visa\/bottom.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/sel\/visa\/feu-de-camp.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -355,7 +355,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.7.0",
  "tileheight":32,
  "tilesets":[
         {
